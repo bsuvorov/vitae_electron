@@ -1,0 +1,25 @@
+{
+  "name": "vitae_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsuvorov/vitae_electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsuvorov/vitae_electron/issues"
+  },
+  "homepage": "https://github.com/bsuvorov/vitae_electron#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "electron": "^8.1.1",
+    "npm": "^6.14.2"
+  },
+  "devDependencies": {}
+}
