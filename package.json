@@ -18,7 +18,7 @@
   "homepage": "https://github.com/bsuvorov/vitae_electron#readme",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "electron": "^8.1.1",
+    "electron": "^15.5.5",
     "npm": "^6.14.2"
   },
   "devDependencies": {}
